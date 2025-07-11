@@ -494,7 +494,7 @@ section {
 }
 
 .social-links {
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .social-links a {
@@ -574,8 +574,8 @@ section {
   }
   
   .contact .card {
-    width: 100%;
-    max-width: 350px;
+    width: 50%;
+    max-width: 300px;
   }
 }
 
