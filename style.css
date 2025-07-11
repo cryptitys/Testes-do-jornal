@@ -76,21 +76,17 @@ section {
 }
 
 .main .content h2 {
-.main .content h2 {
-  font-size: 3.5em;
-  font-weight: 800;
-  background: linear-gradient(90deg, #f1c40f, #ffd700);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-  transition: all 0.3s ease;
-  letter-spacing: 1px;
+  color: white;
+  font-size: 2.5em;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
-.main .content h2:hover {
-  transform: scale(1.02);
-  text-shadow: 2px 2px 12px rgba(0,0,0,0.8);
-  }
+.main .content h2 span {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #f1c40f;
+}
 
 .animated-text {
   position: relative;
@@ -621,4 +617,4 @@ section {
     width: 100%;
     max-width: 350px;
   }
-}
+  }
