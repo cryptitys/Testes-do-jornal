@@ -46,8 +46,8 @@ header .navigation a {
   font-size: 1em;
   text-decoration: none;
   font-weight: 500;
-  margin-left: 30px;
-  transition: 0.3s;
+  margin-left: 40px;
+  transition: 0.2s;
 }
 
 header .navigation a:hover {
@@ -60,7 +60,7 @@ section {
 
 .main {
   position: relative;
-  width: 100%;
+  width: 1000%;
   min-height: 100vh;
   display: flex;
   align-items: center;
